@@ -1,6 +1,6 @@
 # CLIP STUDIO CLI Tool
 
-A CLI tool written in node.js to quickly view png images and get layer information of committed versions of a CLIP STUDIO file stored in GIT LFS. An sqlite database with png and layer information can be found .clip files allowing for quick retrieval of this information. Requires a git repository to already be created
+A CLI tool written in node.js to quickly view png images and get layer information of committed versions of a CLIP STUDIO file stored in GIT LFS. An sqlite database with png and layer information can be found .clip files allowing for quick retrieval of this information. Requires a git repository to already be created. npm install -g to get studio command.
 
 ----
 
